@@ -1,4 +1,4 @@
-package exceptions;
+package com.ved.user.service.UserService.exceptions;
 
 public class ResourceNotFountException extends RuntimeException{
     public ResourceNotFountException() {
